@@ -32,5 +32,5 @@ segment_time: 切片的时长
 
 
 #### 参考：
-<http://elkpi.com/topics/ffmpeg-f-hls.html/>
+<http://elkpi.com/topics/ffmpeg-f-hls.html/> <br>
 <http://www.cnblogs.com/top5/archive/2009/12/30/1636352.html/>
